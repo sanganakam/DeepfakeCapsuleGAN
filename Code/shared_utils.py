@@ -6,8 +6,10 @@ from keras import backend as K
 # import skimage
 # from skimage import data, color, exposure
 # from skimage.transform import resize
+import matplotlib
+matplotlib.use('agg')
 import matplotlib.pyplot as plt
-from matplotlib import gridspec
+# from matplotlib import gridspec
 
 
 

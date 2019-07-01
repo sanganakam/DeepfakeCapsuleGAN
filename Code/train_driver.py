@@ -19,7 +19,7 @@ import tf_lib
 import model_base as mb
 from datetime import datetime
 from sklearn.externals import joblib
-import ujson
+# import ujson
 import pickle
 import matplotlib
 matplotlib.use('Agg')
